@@ -4,3 +4,4 @@ india
 pakistan pakistan
 new zealand
 srilanka
+southafrica
