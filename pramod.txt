@@ -2,3 +2,4 @@ hello world
 t20 world cup
 india
 pakistan pakistan
+new zealand
